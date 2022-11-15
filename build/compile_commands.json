@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/andreasmandoe/OneDrive - Aarhus universitet/OneDrive Uni/ComputerTeknologi/1. Semester/Programmering for computerteknologi/week12/git/assignment-12-amandoee/build",
+  "command": "/usr/bin/clang++  -I\"/Users/andreasmandoe/OneDrive - Aarhus universitet/OneDrive Uni/ComputerTeknologi/1. Semester/Programmering for computerteknologi/week12/git/assignment-12-amandoee/include\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -std=gnu++14 -o CMakeFiles/mymath.dir/src/duration.cpp.o -c \"/Users/andreasmandoe/OneDrive - Aarhus universitet/OneDrive Uni/ComputerTeknologi/1. Semester/Programmering for computerteknologi/week12/git/assignment-12-amandoee/src/duration.cpp\"",
+  "file": "/Users/andreasmandoe/OneDrive - Aarhus universitet/OneDrive Uni/ComputerTeknologi/1. Semester/Programmering for computerteknologi/week12/git/assignment-12-amandoee/src/duration.cpp"
+},
+{
+  "directory": "/Users/andreasmandoe/OneDrive - Aarhus universitet/OneDrive Uni/ComputerTeknologi/1. Semester/Programmering for computerteknologi/week12/git/assignment-12-amandoee/build",
+  "command": "/usr/bin/clang++  -I\"/Users/andreasmandoe/OneDrive - Aarhus universitet/OneDrive Uni/ComputerTeknologi/1. Semester/Programmering for computerteknologi/week12/git/assignment-12-amandoee/include\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -std=gnu++14 -o CMakeFiles/main.dir/src/main.cpp.o -c \"/Users/andreasmandoe/OneDrive - Aarhus universitet/OneDrive Uni/ComputerTeknologi/1. Semester/Programmering for computerteknologi/week12/git/assignment-12-amandoee/src/main.cpp\"",
+  "file": "/Users/andreasmandoe/OneDrive - Aarhus universitet/OneDrive Uni/ComputerTeknologi/1. Semester/Programmering for computerteknologi/week12/git/assignment-12-amandoee/src/main.cpp"
+},
+{
+  "directory": "/Users/andreasmandoe/OneDrive - Aarhus universitet/OneDrive Uni/ComputerTeknologi/1. Semester/Programmering for computerteknologi/week12/git/assignment-12-amandoee/build/tests",
+  "command": "/usr/bin/clang++  -I\"/Users/andreasmandoe/OneDrive - Aarhus universitet/OneDrive Uni/ComputerTeknologi/1. Semester/Programmering for computerteknologi/week12/git/assignment-12-amandoee/tests/include\" -I\"/Users/andreasmandoe/OneDrive - Aarhus universitet/OneDrive Uni/ComputerTeknologi/1. Semester/Programmering for computerteknologi/week12/git/assignment-12-amandoee/include\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.7 -std=gnu++14 -o CMakeFiles/tests.dir/src/tests.cpp.o -c \"/Users/andreasmandoe/OneDrive - Aarhus universitet/OneDrive Uni/ComputerTeknologi/1. Semester/Programmering for computerteknologi/week12/git/assignment-12-amandoee/tests/src/tests.cpp\"",
+  "file": "/Users/andreasmandoe/OneDrive - Aarhus universitet/OneDrive Uni/ComputerTeknologi/1. Semester/Programmering for computerteknologi/week12/git/assignment-12-amandoee/tests/src/tests.cpp"
+}
+]
