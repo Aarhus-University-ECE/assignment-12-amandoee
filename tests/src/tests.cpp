@@ -34,14 +34,5 @@ TEST_CASE("Duration is initialized to 0") {
     REQUIRE(d.checkAlarm()==false);
 
     d.setAlarm(100);
-    REQUIRE(d.tick() == false);
-
-    
-}
-
-TEST_CASE("BLA BLA BLA") {
-
-
-
-
+    REQUIRE(d.tick() == false);   
 }

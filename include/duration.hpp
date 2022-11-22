@@ -30,6 +30,8 @@ public:
     void setAlarm(int t);
 
     bool checkAlarm();
+
+    ~Duration();
 };
 
 

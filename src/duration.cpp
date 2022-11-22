@@ -61,3 +61,5 @@ bool Duration::checkAndUpdateAlarm() {
         return false;
     }
 }
+
+Duration::~Duration() {}
