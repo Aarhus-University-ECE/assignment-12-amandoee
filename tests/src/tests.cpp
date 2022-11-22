@@ -39,5 +39,5 @@ TEST_CASE("Duration is initialized to 0") {
 
 
 TEST_CASE("Github test") {
-    REQUIRE(1 == 1);
+    REQUIRE(1 == 0);
 }
