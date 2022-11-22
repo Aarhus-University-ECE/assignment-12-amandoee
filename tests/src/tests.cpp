@@ -36,3 +36,8 @@ TEST_CASE("Duration is initialized to 0") {
     d.setAlarm(100);
     REQUIRE(d.tick() == false);   
 }
+
+
+TEST_CASE("Github test") {
+    REQUIRE(1 == 1);
+}
