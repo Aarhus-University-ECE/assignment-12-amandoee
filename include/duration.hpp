@@ -17,6 +17,8 @@ public:
     
     Duration();
 
+    Duration(int t);
+
     void setTime(int t);
 
     int getDuration();
@@ -32,6 +34,7 @@ public:
     bool checkAlarm();
 
     ~Duration();
+
 };
 
 

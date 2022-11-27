@@ -8,6 +8,11 @@ Duration::Duration() {
     time = 0;
 }
 
+Duration::Duration(int t) {
+    assert(t >= 0);
+    time = t;
+}
+
 //funktion til at sætte tiden til en vilkårlig værdi over 0
 void Duration::setTime(int t) {
     assert(t >= 0);
